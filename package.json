@@ -1,0 +1,19 @@
+{
+  "name": "jogo-da-velha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^3.0.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.35.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.5"
+  }
+}

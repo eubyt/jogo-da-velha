@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    font-size: 60px;
+    text-align: center;
+}
+
+table tr td {
+
+    width: 80px;
+    height: 80px;    
+
+    padding: 2%;
+
+}
+
+.tipo-a1 {
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.tipo-a2 {
+    border-bottom: 2px solid black;
+}
+
+
+.tipo-b1 {
+    border-right: 2px solid black;
+}
+
+.tipo-b2 {
+
+}
